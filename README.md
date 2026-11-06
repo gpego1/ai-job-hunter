@@ -1,4 +1,4 @@
-# AI Job Hunter — MVP local
+# AI Job Hunter
 
 MVP de coleta de vagas Java júnior usando APIs públicas de job boards, FastAPI, PostgreSQL, n8n e Ollama. **Não envia e-mails nem altera seu currículo automaticamente.**
 
